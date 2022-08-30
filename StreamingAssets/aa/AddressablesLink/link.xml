@@ -1,0 +1,437 @@
+<linker>
+  <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="ConnectionChecker" preserve="all" />
+    <type fullname="EffectsManager" preserve="all" />
+    <type fullname="FriendsGamesTools.Audio.AudioSettingsView" preserve="all" />
+    <type fullname="FriendsGamesTools.Audio.HighFPSSettingsView" preserve="all" />
+    <type fullname="FriendsGamesTools.BuildInfo" preserve="all" />
+    <type fullname="FriendsGamesTools.BuildInfoView" preserve="all" />
+    <type fullname="FriendsGamesTools.CrossMarketingConfig" preserve="all" />
+    <type fullname="FriendsGamesTools.DebugTools.BuildModesDebugView" preserve="all" />
+    <type fullname="FriendsGamesTools.DebugTools.ChromaKey.SceneDisablingView" preserve="all" />
+    <type fullname="FriendsGamesTools.DebugTools.ChromaKey.TransformView" preserve="all" />
+    <type fullname="FriendsGamesTools.DebugTools.ConfigDebugView" preserve="all" />
+    <type fullname="FriendsGamesTools.DebugTools.ConfigEditorFromMonoBeh" preserve="all" />
+    <type fullname="FriendsGamesTools.DebugTools.ConfigEditorPrefabs" preserve="all" />
+    <type fullname="FriendsGamesTools.DebugTools.ConfigExportImport" preserve="all" />
+    <type fullname="FriendsGamesTools.DebugTools.DebugCamerasPerformance" preserve="all" />
+    <type fullname="FriendsGamesTools.DebugTools.DebugCanvasPerformance" preserve="all" />
+    <type fullname="FriendsGamesTools.DebugTools.DebugControllersPerformance" preserve="all" />
+    <type fullname="FriendsGamesTools.DebugTools.DebugMonobehavioursPerformance" preserve="all" />
+    <type fullname="FriendsGamesTools.DebugTools.DebugPanel" preserve="all" />
+    <type fullname="FriendsGamesTools.DebugTools.DebugPanelBoolEditor" preserve="all" />
+    <type fullname="FriendsGamesTools.DebugTools.DebugPanelDoubleEditor" preserve="all" />
+    <type fullname="FriendsGamesTools.DebugTools.DebugPanelFloatEditor" preserve="all" />
+    <type fullname="FriendsGamesTools.DebugTools.DebugPanelIntEditor" preserve="all" />
+    <type fullname="FriendsGamesTools.DebugTools.DebugPanelItemHeader" preserve="all" />
+    <type fullname="FriendsGamesTools.DebugTools.DebugPanelParamEditorLabel" preserve="all" />
+    <type fullname="FriendsGamesTools.DebugTools.DebugPanelSettings" preserve="all" />
+    <type fullname="FriendsGamesTools.DebugTools.DebugPanelTabView" preserve="all" />
+    <type fullname="FriendsGamesTools.DebugTools.DebugPerformanceSettings" preserve="all" />
+    <type fullname="FriendsGamesTools.DebugTools.DebugSleepsView" preserve="all" />
+    <type fullname="FriendsGamesTools.DebugTools.LanscapeDebugPanelView" preserve="all" />
+    <type fullname="FriendsGamesTools.DebugTools.LogEntryView" preserve="all" />
+    <type fullname="FriendsGamesTools.DebugTools.LogsDebugView" preserve="all" />
+    <type fullname="FriendsGamesTools.DebugTools.PasswordView" preserve="all" />
+    <type fullname="FriendsGamesTools.DebugTools.PerformanceBudgetDebugView" preserve="all" />
+    <type fullname="FriendsGamesTools.DebugTools.PerformanceDebugView" preserve="all" />
+    <type fullname="FriendsGamesTools.DebugTools.PerformanceStatsView" preserve="all" />
+    <type fullname="FriendsGamesTools.DebugTools.PlayPauseView" preserve="all" />
+    <type fullname="FriendsGamesTools.DebugTools.ResolutonView" preserve="all" />
+    <type fullname="FriendsGamesTools.DebugTools.ShowFPS" preserve="all" />
+    <type fullname="FriendsGamesTools.DebugTools.TargetFrameRateDebugView" preserve="all" />
+    <type fullname="FriendsGamesTools.DebugTools.TargetFrameRateView" preserve="all" />
+    <type fullname="FriendsGamesTools.DebugTools.VSyncView" preserve="all" />
+    <type fullname="FriendsGamesTools.DefinesSettings" preserve="all" />
+    <type fullname="FriendsGamesTools.ECSGame.DataMigration.MigrationSettings" preserve="all" />
+    <type fullname="FriendsGamesTools.ECSGame.DataMigration.NewVersionWindow" preserve="all" />
+    <type fullname="FriendsGamesTools.ECSGame.DataVersion" preserve="all" />
+    <type fullname="FriendsGamesTools.ECSGame.GainedRewardView" preserve="all" />
+    <type fullname="FriendsGamesTools.ECSGame.GameRootDebugView" preserve="all" />
+    <type fullname="FriendsGamesTools.ECSGame.GameTimeDebugView" preserve="all" />
+    <type fullname="FriendsGamesTools.ECSGame.HapticsDebugView" preserve="all" />
+    <type fullname="FriendsGamesTools.ECSGame.LevelBasedView" preserve="all" />
+    <type fullname="FriendsGamesTools.ECSGame.LocationsDebugView" preserve="all" />
+    <type fullname="FriendsGamesTools.ECSGame.LoseLevelWindow" preserve="all" />
+    <type fullname="FriendsGamesTools.ECSGame.MainMenuWindow" preserve="all" />
+    <type fullname="FriendsGamesTools.ECSGame.MoneySkinItemView" preserve="all" />
+    <type fullname="FriendsGamesTools.ECSGame.MoneySkinsViewConfig" preserve="all" />
+    <type fullname="FriendsGamesTools.ECSGame.MoneySkinTabView" preserve="all" />
+    <type fullname="FriendsGamesTools.ECSGame.Player.Money.MoneySoakEffect" preserve="all" />
+    <type fullname="FriendsGamesTools.ECSGame.PlayerMoneyDebugView" preserve="all" />
+    <type fullname="FriendsGamesTools.ECSGame.ProgressSkinItemView" preserve="all" />
+    <type fullname="FriendsGamesTools.ECSGame.ProgressSkinsViewConfig" preserve="all" />
+    <type fullname="FriendsGamesTools.ECSGame.ProgressSkinTabView" preserve="all" />
+    <type fullname="FriendsGamesTools.ECSGame.RewardProgressWindow" preserve="all" />
+    <type fullname="FriendsGamesTools.ECSGame.ScrollArrowsView" preserve="all" />
+    <type fullname="FriendsGamesTools.ECSGame.SkinsWindow" preserve="all" />
+    <type fullname="FriendsGamesTools.ECSGame.StarView" preserve="all" />
+    <type fullname="FriendsGamesTools.ECSGame.UnlockProgressSkinWindow" preserve="all" />
+    <type fullname="FriendsGamesTools.EditorTools.BuildModes.BuildModeSettings" preserve="all" />
+    <type fullname="FriendsGamesTools.EnabledWhenDefine" preserve="all" />
+    <type fullname="FriendsGamesTools.FGTLocalSettings" preserve="all" />
+    <type fullname="FriendsGamesTools.FGTSettings" preserve="all" />
+    <type fullname="FriendsGamesTools.GDPRSettings" preserve="all" />
+    <type fullname="FriendsGamesTools.GDPRView" preserve="all" />
+    <type fullname="FriendsGamesTools.GDPRWindow" preserve="all" />
+    <type fullname="FriendsGamesTools.HapticSettingsDisableOnOldView" preserve="all" />
+    <type fullname="FriendsGamesTools.HapticSettingsView" preserve="all" />
+    <type fullname="FriendsGamesTools.IAP.IAPSettings" preserve="all" />
+    <type fullname="FriendsGamesTools.InternetDebugView" preserve="all" />
+    <type fullname="FriendsGamesTools.Joystick" preserve="all" />
+    <type fullname="FriendsGamesTools.LanguageButton" preserve="all" />
+    <type fullname="FriendsGamesTools.OpenSettings" preserve="all" />
+    <type fullname="FriendsGamesTools.RateAppButton" preserve="all" />
+    <type fullname="FriendsGamesTools.RateAppNativeWindow" preserve="all" />
+    <type fullname="FriendsGamesTools.SettingsCustomization" preserve="all" />
+    <type fullname="FriendsGamesTools.SettingsModuleSettings" preserve="all" />
+    <type fullname="FriendsGamesTools.SettingsWindow" preserve="all" />
+    <type fullname="FriendsGamesTools.Share.ShareButton" preserve="all" />
+    <type fullname="FriendsGamesTools.Share.ShareDebugView" preserve="all" />
+    <type fullname="FriendsGamesTools.Share.ShareNativeWindow" preserve="all" />
+    <type fullname="FriendsGamesTools.Share.ShareSettings" preserve="all" />
+    <type fullname="FriendsGamesTools.SwitchLanguagesView" preserve="all" />
+    <type fullname="FriendsGamesTools.TouchesDebugView" preserve="all" />
+    <type fullname="FriendsGamesTools.TouchesView" preserve="all" />
+    <type fullname="FriendsGamesTools.TouchSettings" preserve="all" />
+    <type fullname="FriendsGamesTools.TouchView" preserve="all" />
+    <type fullname="FriendsGamesTools.UI.FadeText" preserve="all" />
+    <type fullname="FriendsGamesTools.UI.FGTButton" preserve="all" />
+    <type fullname="FriendsGamesTools.UI.FillParentRect" preserve="all" />
+    <type fullname="FriendsGamesTools.UI.InfoNotificationSettings" preserve="all" />
+    <type fullname="FriendsGamesTools.UI.InfoNotificationView" preserve="all" />
+    <type fullname="FriendsGamesTools.UI.MessageWindow" preserve="all" />
+    <type fullname="FriendsGamesTools.UI.MessageWindowCustomization" preserve="all" />
+    <type fullname="FriendsGamesTools.UI.MessageWindowSettings" preserve="all" />
+    <type fullname="FriendsGamesTools.UI.NestedLayoutsUpdater" preserve="all" />
+    <type fullname="FriendsGamesTools.UI.SafeRect" preserve="all" />
+    <type fullname="FriendsGamesTools.UI.ScreenSettings" preserve="all" />
+    <type fullname="FriendsGamesTools.UI.TabView" preserve="all" />
+    <type fullname="FriendsGamesTools.UI.TweenScale" preserve="all" />
+    <type fullname="FriendsGamesTools.UI.TweenShake" preserve="all" />
+    <type fullname="FriendsGamesTools.UI.WindowsDebugView" preserve="all" />
+    <type fullname="GameSettings" preserve="all" />
+    <type fullname="HcUtils.CameraSwitch" preserve="all" />
+    <type fullname="HcUtils.FogDisabler" preserve="all" />
+    <type fullname="HcUtils.SewitAdButtonBlocker" preserve="all" />
+    <type fullname="HcUtils.ThemeSet" preserve="all" />
+    <type fullname="PointerDownTransfer" preserve="all" />
+    <type fullname="PointNumbers.SewingNailsNail" preserve="all" />
+    <type fullname="PointNumbers.SewingNailsThreadSpine" preserve="all" />
+    <type fullname="Sewing.BackgroundSkinSetter" preserve="all" />
+    <type fullname="Sewing.DebugStianunie" preserve="all" />
+    <type fullname="Sewing.HandSkin" preserve="all" />
+    <type fullname="Sewing.HandSkinSetter" preserve="all" />
+    <type fullname="Sewing.HoleLighter" preserve="all" />
+    <type fullname="Sewing.HoleNumberLabel" preserve="all" />
+    <type fullname="Sewing.LineSkinSetter" preserve="all" />
+    <type fullname="Sewing.SceneSwitcher" preserve="all" />
+    <type fullname="Sewing.SewChainCamera" preserve="all" />
+    <type fullname="Sewing.SewChainManager" preserve="all" />
+    <type fullname="Sewing.SewChainThreadLineRenderer" preserve="all" />
+    <type fullname="Sewing.SewingCamera" preserve="all" />
+    <type fullname="Sewing.SewingCloth" preserve="all" />
+    <type fullname="Sewing.SewingHole" preserve="all" />
+    <type fullname="Sewing.SewingLineConfig" preserve="all" />
+    <type fullname="Sewing.SewingLinePainter" preserve="all" />
+    <type fullname="Sewing.SewingManager" preserve="all" />
+    <type fullname="Sewing.SewingManagerPhone" preserve="all" />
+    <type fullname="Sewing.SewingNailsLinePainter" preserve="all" />
+    <type fullname="Sewing.SewingNailsManager" preserve="all" />
+    <type fullname="Sewing.SewingNeedle" preserve="all" />
+    <type fullname="Sewing.SewingNeedle1" preserve="all" />
+    <type fullname="Sewing.SewingStar" preserve="all" />
+    <type fullname="Sewing.SewingStepManager" preserve="all" />
+    <type fullname="Sewing.SewingThreadLineRenderer" preserve="all" />
+    <type fullname="Sewing.SewingThreadSpine" preserve="all" />
+    <type fullname="Sewing.SewingToy" preserve="all" />
+    <type fullname="Sewing.SewingTutorial" preserve="all" />
+    <type fullname="Sewing.SewitHomeButton" preserve="all" />
+    <type fullname="Sewing.SewitNoAdsView" preserve="all" />
+    <type fullname="Sewing.SewitPopupHintButton" preserve="all" />
+    <type fullname="Sewing.SewitRestorePurchaseView" preserve="all" />
+    <type fullname="Sewing.SewitSettingsButton" preserve="all" />
+    <type fullname="Sewing.SewitSkipLevelButton" preserve="all" />
+    <type fullname="Sewing.SewitTipButton" preserve="all" />
+    <type fullname="Sewing.SewitUndoButton" preserve="all" />
+    <type fullname="Sewing.StarChainCamera" preserve="all" />
+    <type fullname="Sewing.StarChainHole" preserve="all" />
+    <type fullname="Sewing.StarChainImage" preserve="all" />
+    <type fullname="Sewing.StarChainLinePainter" preserve="all" />
+    <type fullname="Sewing.StarChainManager" preserve="all" />
+    <type fullname="Sewing.StarChainNeedle" preserve="all" />
+    <type fullname="Sewing.StarChainThreadLineRenderer" preserve="all" />
+    <type fullname="Sewing.StarChainThreadSpine" preserve="all" />
+    <type fullname="Sewing.UISpark" preserve="all" />
+    <type fullname="Sewit.AdBlockerHandler" preserve="all" />
+    <type fullname="Sewit.AudioOrganizer" preserve="all" />
+    <type fullname="Sewit.BackgroundSkinSetter" preserve="all" />
+    <type fullname="Sewit.BonusBorders" preserve="all" />
+    <type fullname="Sewit.ButtonGraphics" preserve="all" />
+    <type fullname="Sewit.ButtonOnClickSound" preserve="all" />
+    <type fullname="Sewit.CurrentSpeedLine" preserve="all" />
+    <type fullname="Sewit.DDFIX" preserve="all" />
+    <type fullname="Sewit.DifficultyLabel" preserve="all" />
+    <type fullname="Sewit.GameConfig" preserve="all" />
+    <type fullname="Sewit.GameManager" preserve="all" />
+    <type fullname="Sewit.GetCoinsWindow" preserve="all" />
+    <type fullname="Sewit.HoleFinder" preserve="all" />
+    <type fullname="Sewit.LevelsConfig" preserve="all" />
+    <type fullname="Sewit.LevelTimer" preserve="all" />
+    <type fullname="Sewit.LevelTimerClock" preserve="all" />
+    <type fullname="Sewit.LevelTimerView" preserve="all" />
+    <type fullname="Sewit.Mover" preserve="all" />
+    <type fullname="Sewit.NewSkinWindow" preserve="all" />
+    <type fullname="Sewit.NoAdsLocalization" preserve="all" />
+    <type fullname="Sewit.NoAdsWindow" preserve="all" />
+    <type fullname="Sewit.NoTouchInterstitialDetector" preserve="all" />
+    <type fullname="Sewit.ReversHolesConnector" preserve="all" />
+    <type fullname="Sewit.SewingAutotightButton" preserve="all" />
+    <type fullname="Sewit.SewingHelp" preserve="all" />
+    <type fullname="Sewit.SewitBackgroundItemView" preserve="all" />
+    <type fullname="Sewit.SewitBonusInterruptionWindow" preserve="all" />
+    <type fullname="Sewit.SewitCoreGameView" preserve="all" />
+    <type fullname="Sewit.SewitDebugLevelsTab" preserve="all" />
+    <type fullname="Sewit.SewitDebugPanelTab" preserve="all" />
+    <type fullname="Sewit.SewitGDPRView" preserve="all" />
+    <type fullname="Sewit.SewitGeneralConfig" preserve="all" />
+    <type fullname="Sewit.SewitLevelsView" preserve="all" />
+    <type fullname="Sewit.SewitLevelView" preserve="all" />
+    <type fullname="Sewit.SewitLoseLevelWindow" preserve="all" />
+    <type fullname="Sewit.SewitMoneyConfig" preserve="all" />
+    <type fullname="Sewit.SewitMoneySkinConfig" preserve="all" />
+    <type fullname="Sewit.SewItMoneySoakEffect" preserve="all" />
+    <type fullname="Sewit.SewitMoneyView" preserve="all" />
+    <type fullname="Sewit.SewitMusicManager" preserve="all" />
+    <type fullname="Sewit.SewitMusicSettingsView" preserve="all" />
+    <type fullname="Sewit.SewitProgressSkinConfig" preserve="all" />
+    <type fullname="Sewit.SewitRestartButton" preserve="all" />
+    <type fullname="Sewit.SewitRoot" preserve="all" />
+    <type fullname="Sewit.SewitSkinItemView" preserve="all" />
+    <type fullname="Sewit.SewitSkinViewConfigs" preserve="all" />
+    <type fullname="Sewit.SewitSoundManager" preserve="all" />
+    <type fullname="Sewit.SewitSoundSettingsView" preserve="all" />
+    <type fullname="Sewit.SewitSpecialLevelWindow" preserve="all" />
+    <type fullname="Sewit.SewitTimeIsUpWindow" preserve="all" />
+    <type fullname="Sewit.SewitTipItemView" preserve="all" />
+    <type fullname="Sewit.SewitVoodooManager" preserve="all" />
+    <type fullname="Sewit.SewitWinLevelWindow" preserve="all" />
+    <type fullname="Sewit.TestChanges" preserve="all" />
+    <type fullname="Sewit.TransformRotator" preserve="all" />
+    <type fullname="Sewit.UI.LevelNameID" preserve="all" />
+    <type fullname="Sewit.UI.LoadingIcon" preserve="all" />
+    <type fullname="Sewit.UI.MainFaider" preserve="all" />
+    <type fullname="Sewit.UI.RateStar" preserve="all" />
+    <type fullname="Sewit.UI.SewitClosetWindow" preserve="all" />
+    <type fullname="Sewit.UI.SewitMainMenuWindow" preserve="all" />
+    <type fullname="Sewit.UI.SewitNoInternetWindow" preserve="all" />
+    <type fullname="Sewit.UI.SewitRateAppWindow" preserve="all" />
+    <type fullname="Sewit.UI.SewitSkinsWindow" preserve="all" />
+    <type fullname="Sewit.UI.SewitStoreWindow" preserve="all" />
+    <type fullname="Sewit.UI.SewitWindows" preserve="all" />
+    <type fullname="Sewit.UI.SimpleTutorial" preserve="all" />
+    <type fullname="Sewit.UI.SkinTabContents_Background" preserve="all" />
+    <type fullname="Sewit.UI.SkinTabContents_Hand" preserve="all" />
+    <type fullname="Sewit.UI.SkinTabContents_Line" preserve="all" />
+    <type fullname="Sewit.UI.StoreTab" preserve="all" />
+    <type fullname="Sewit.UI.TipsTabContents" preserve="all" />
+    <type fullname="Sewit.WaypointCircuit" preserve="all" />
+    <type fullname="Sewit.WayPointControl" preserve="all" />
+    <type fullname="Sewit.WinActiveRV" preserve="all" />
+    <type fullname="Sewit.WinMultiplierRect" preserve="all" />
+    <type fullname="SimpleAnimation" preserve="all" />
+    <type fullname="Voodoo.Distribution.Translator" preserve="all" />
+    <type fullname="Sewit.LevelsSequence" preserve="nothing" serialized="true" />
+    <type fullname="Sewit.NoAdsText" preserve="nothing" serialized="true" />
+    <type fullname="Sewit.SewitAudioClip" preserve="nothing" serialized="true" />
+    <type fullname="FriendsGamesTools.ECSGame.MoneySkinViewConfig" preserve="nothing" serialized="true" />
+    <type fullname="FriendsGamesTools.ECSGame.ProgressSkinViewConfig" preserve="nothing" serialized="true" />
+    <type fullname="Sewit.LevelConfig" preserve="nothing" serialized="true" />
+    <type fullname="Sewit.WaypointCircuit/WaypointList" preserve="nothing" serialized="true" />
+    <type fullname="Sewit.SewitBackgroundSkinViewConfig" preserve="nothing" serialized="true" />
+    <type fullname="Sewit.SewitLineSkinViewConfig" preserve="nothing" serialized="true" />
+    <type fullname="Sewit.SewitSkinViewConfig" preserve="nothing" serialized="true" />
+    <type fullname="Sewit.SewitTipsItemViewConfig" preserve="nothing" serialized="true" />
+    <type fullname="EffectsList" preserve="nothing" serialized="true" />
+    <type fullname="SimpleAnimation/EditorState" preserve="nothing" serialized="true" />
+    <type fullname="FriendsGamesTools.DebugTools.TextOrTMPro" preserve="nothing" serialized="true" />
+    <type fullname="FriendsGamesTools.ECSGame.DataMigration.MigrationSettings/VersionMetaData" preserve="nothing" serialized="true" />
+    <type fullname="FriendsGamesTools.ECSGame.DataMigration.WhatsNewPrefab" preserve="nothing" serialized="true" />
+    <type fullname="FriendsGamesTools.GDPRWindowPrefabSettings" preserve="nothing" serialized="true" />
+    <type fullname="FriendsGamesTools.IAP.SubscriptionSettings" preserve="nothing" serialized="true" />
+    <type fullname="FriendsGamesTools.SettingsWindowPrefabSettings" preserve="nothing" serialized="true" />
+    <type fullname="FriendsGamesTools.UI.ScreenMargins" preserve="nothing" serialized="true" />
+    <type fullname="FriendsGamesTools.EditorTools.BuildModes.ProjectSettingItemConfig" preserve="nothing" serialized="true" />
+    <type fullname="FriendsGamesTools.CrossMarketingAppData" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="EPOOutline.Outlinable" preserve="all" />
+    <type fullname="EPOOutline.Outliner" preserve="all" />
+    <type fullname="EPOOutline.TargetStateListener" preserve="all" />
+    <type fullname="Line.LineConfig" preserve="all" />
+    <type fullname="Line.Utils.UICamera" preserve="all" />
+    <type fullname="EPOOutline.Outlinable/OutlineProperties" preserve="nothing" serialized="true" />
+    <type fullname="EPOOutline.OutlineTarget" preserve="nothing" serialized="true" />
+    <type fullname="EPOOutline.SerializedPass" preserve="nothing" serialized="true" />
+    <type fullname="EPOOutline.SerializedPass/SerializedPassProperty" preserve="nothing" serialized="true" />
+    <type fullname="EPOOutline.SerializedPass/SerializedPropertyKeyValuePair" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="CFXRRuntime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="CartoonFX.CFXR_ParticleText" preserve="all" />
+  </assembly>
+  <assembly fullname="Cinemachine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Cinemachine.CinemachineBrain" preserve="all" />
+    <type fullname="Cinemachine.CinemachinePipeline" preserve="all" />
+    <type fullname="Cinemachine.CinemachineTransposer" preserve="all" />
+    <type fullname="Cinemachine.CinemachineBlendDefinition" preserve="nothing" serialized="true" />
+    <type fullname="Cinemachine.CinemachineBrain/BrainEvent" preserve="nothing" serialized="true" />
+    <type fullname="Cinemachine.CinemachineBrain/VcamActivatedEvent" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
+    <type fullname="UnityEngine.AddressableAssets.AssetReference" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.AtlasSpriteProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.InstanceProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.LegacyResourcesProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.SceneProvider" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="TMPro.TextMeshPro" preserve="all" />
+    <type fullname="TMPro.TextMeshProUGUI" preserve="all" />
+    <type fullname="TMPro.TMP_Dropdown" preserve="all" />
+    <type fullname="TMPro.TMP_FontAsset" preserve="all" />
+    <type fullname="TMPro.TMP_InputField" preserve="all" />
+    <type fullname="TMPro.TMP_SubMeshUI" preserve="all" />
+    <type fullname="TMPro.VertexGradient" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_Dropdown/DropdownEvent" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_Dropdown/OptionData" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_Dropdown/OptionDataList" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.FaceInfo_Legacy" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.FontAssetCreationSettings" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.KerningTable" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_Character" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_FontFeatureTable" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_FontWeightPair" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_GlyphAdjustmentRecord" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_GlyphPairAdjustmentRecord" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_GlyphValueRecord" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_InputField/OnChangeEvent" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_InputField/SelectionEvent" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_InputField/SubmitEvent" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_InputField/TextSelectionEvent" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_InputField/TouchScreenKeyboardEvent" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="UnityEngine.AnimationModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Animation" preserve="all" />
+    <type fullname="UnityEngine.AnimationClip" preserve="all" />
+    <type fullname="UnityEngine.Animator" preserve="all" />
+    <type fullname="UnityEngine.RuntimeAnimatorController" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.AudioModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.AudioClip" preserve="all" />
+    <type fullname="UnityEngine.AudioListener" preserve="all" />
+    <type fullname="UnityEngine.AudioSource" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Camera" preserve="all" />
+    <type fullname="UnityEngine.GameObject" preserve="all" />
+    <type fullname="UnityEngine.Light" preserve="all" />
+    <type fullname="UnityEngine.LightmapSettings" preserve="all" />
+    <type fullname="UnityEngine.LineRenderer" preserve="all" />
+    <type fullname="UnityEngine.Material" preserve="all" />
+    <type fullname="UnityEngine.Mesh" preserve="all" />
+    <type fullname="UnityEngine.MeshFilter" preserve="all" />
+    <type fullname="UnityEngine.MeshRenderer" preserve="all" />
+    <type fullname="UnityEngine.MonoBehaviour" preserve="all" />
+    <type fullname="UnityEngine.Object" preserve="all" />
+    <type fullname="UnityEngine.RectTransform" preserve="all" />
+    <type fullname="UnityEngine.RenderSettings" preserve="all" />
+    <type fullname="UnityEngine.RenderTexture" preserve="all" />
+    <type fullname="UnityEngine.Shader" preserve="all" />
+    <type fullname="UnityEngine.Sprite" preserve="all" />
+    <type fullname="UnityEngine.SpriteRenderer" preserve="all" />
+    <type fullname="UnityEngine.Texture2D" preserve="all" />
+    <type fullname="UnityEngine.TrailRenderer" preserve="all" />
+    <type fullname="UnityEngine.Transform" preserve="all" />
+    <type fullname="UnityEngine.U2D.SpriteAtlas" preserve="all" />
+    <type fullname="UnityEngine.Events.ArgumentCache" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.PersistentCallGroup" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.PersistentListenerMode" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.RectOffset" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="UnityEngine.ParticleSystemModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.ParticleSystem" preserve="all" />
+    <type fullname="UnityEngine.ParticleSystemRenderer" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.Physics2DModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.BoxCollider2D" preserve="all" />
+    <type fullname="UnityEngine.CapsuleCollider2D" preserve="all" />
+    <type fullname="UnityEngine.CircleCollider2D" preserve="all" />
+    <type fullname="UnityEngine.HingeJoint2D" preserve="all" />
+    <type fullname="UnityEngine.PhysicsMaterial2D" preserve="all" />
+    <type fullname="UnityEngine.PolygonCollider2D" preserve="all" />
+    <type fullname="UnityEngine.Rigidbody2D" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.PhysicsModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.BoxCollider" preserve="all" />
+    <type fullname="UnityEngine.MeshCollider" preserve="all" />
+    <type fullname="UnityEngine.SphereCollider" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.SpriteMaskModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.SpriteMask" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.TextRenderingModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Font" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.EventSystems.EventSystem" preserve="all" />
+    <type fullname="UnityEngine.EventSystems.EventTrigger" preserve="all" />
+    <type fullname="UnityEngine.EventSystems.StandaloneInputModule" preserve="all" />
+    <type fullname="UnityEngine.UI.AspectRatioFitter" preserve="all" />
+    <type fullname="UnityEngine.UI.Button" preserve="all" />
+    <type fullname="UnityEngine.UI.CanvasScaler" preserve="all" />
+    <type fullname="UnityEngine.UI.ContentSizeFitter" preserve="all" />
+    <type fullname="UnityEngine.UI.GraphicRaycaster" preserve="all" />
+    <type fullname="UnityEngine.UI.GridLayoutGroup" preserve="all" />
+    <type fullname="UnityEngine.UI.HorizontalLayoutGroup" preserve="all" />
+    <type fullname="UnityEngine.UI.Image" preserve="all" />
+    <type fullname="UnityEngine.UI.LayoutElement" preserve="all" />
+    <type fullname="UnityEngine.UI.Mask" preserve="all" />
+    <type fullname="UnityEngine.UI.Outline" preserve="all" />
+    <type fullname="UnityEngine.UI.RawImage" preserve="all" />
+    <type fullname="UnityEngine.UI.RectMask2D" preserve="all" />
+    <type fullname="UnityEngine.UI.Scrollbar" preserve="all" />
+    <type fullname="UnityEngine.UI.ScrollRect" preserve="all" />
+    <type fullname="UnityEngine.UI.Shadow" preserve="all" />
+    <type fullname="UnityEngine.UI.Text" preserve="all" />
+    <type fullname="UnityEngine.UI.Toggle" preserve="all" />
+    <type fullname="UnityEngine.UI.VerticalLayoutGroup" preserve="all" />
+    <type fullname="UnityEngine.EventSystems.EventTrigger/Entry" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.EventSystems.EventTrigger/TriggerEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.AnimationTriggers" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Button/ButtonClickedEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.ColorBlock" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.MaskableGraphic/CullStateChangedEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Navigation" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.ScrollRect/ScrollRectEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Scrollbar/ScrollEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.SpriteState" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.FontData" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Toggle/ToggleEvent" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="UnityEngine.UIModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Canvas" preserve="all" />
+    <type fullname="UnityEngine.CanvasGroup" preserve="all" />
+    <type fullname="UnityEngine.CanvasRenderer" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.TextCoreFontEngineModule">
+    <type fullname="UnityEngine.TextCore.FaceInfo" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.TextCore.Glyph" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.TextCore.GlyphMetrics" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.TextCore.GlyphRect" preserve="nothing" serialized="true" />
+  </assembly>
+</linker>
